@@ -158,10 +158,13 @@ async def start_command(client: Client, message: Message):
     else:
         reply_markup = InlineKeyboardMarkup(
             [
-                    [InlineKeyboardButton("• ᴍᴏʀᴇ ᴄʜᴀɴɴᴇʟs •", url="https://t.me/chrunchyrool/71")],
+                    [InlineKeyboardButton("• Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ •", url="https://t.me/AniReal_Updates")],
+    [
+                    InlineKeyboardButton("• Aɴɪᴍᴇs", url="https://t.me/+o2_AIqUz0adjY2M1"),
+                    InlineKeyboardButton("Bᴀsᴇ •", url="https://t.me/AniReal_Anime_Zone")]
 
     [
-                    InlineKeyboardButton("• ᴀʙᴏᴜᴛ", callback_data = "about"),
+                    InlineKeyboardButton("• ᴀʙᴏᴜᴛ ", callback_data = "about"),
                     InlineKeyboardButton('ʜᴇʟᴘ •', callback_data = "help")
 
     ]
