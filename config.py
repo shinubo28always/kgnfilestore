@@ -44,7 +44,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/F3M.jpg")
 
 #--------------------------------------------
 HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @AniReal_Anime_Zone\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/AniReal_Support>Eʀᴇɴ Yᴇᴀɢᴇʀ</a></blockquote></b>"
-ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/ExE_AQUIB>ᴀǫᴜɪʙ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/KGN_BOT_Z>ᴋɢɴ ʙᴏᴛᴢ</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+eKKOHxiwKv00MGM1>ᴄʀᴜɴᴄʜʏʀᴏʟʟ</a>\n◈ ᴍᴏᴠɪᴇ sᴇᴀʀᴄʜ ɢʀᴏᴜᴘ : <a href=https://t.me/Ongoingmoviehub>sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a>\n◈ ʜᴇɴᴛᴀɪ : <a href=https://t.me/+RWsuyuCB-RIxMjE1>ᴀᴅᴜʟᴛ ʜᴜʙ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/ExE_AQUIB>ᴀǫᴜɪʙ</a></blockquote></b>"
+ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/AniReal_Support>Eʀᴇɴ Yᴇᴀɢᴇʀ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/AniReal_Anime_Zone>𝐀𝐧𝐢𝐑𝐞𝐚𝐥 - Aɴɪᴍᴇ Zᴏɴᴇ</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+o2_AIqUz0adjY2M1>ᴀʟʟ ᴀɴɪᴍᴇs ɪɴ ʜɪɴᴅɪ ᴅᴜʙ</a>\n◈ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/AniReal_Chat_Group_Asia>𝐀𝐧𝐢𝐑𝐞𝐚𝐥 - Cʜᴀᴛ Gʀᴏᴜᴘ Asɪᴀ</a>\n◈ ʜᴇɴᴛᴀɪ : <a href=https://t.me/+RWsuyuCB-RIxMjE1>ʜᴇɴᴛᴀɪ ʜᴜʙ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/AniReal_Support>Eʀᴇɴ Yᴇᴀɢᴇʀ</a></blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {first}\n\n<blockquote> ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</blockquote></b>")
