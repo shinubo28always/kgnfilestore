@@ -43,12 +43,10 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([
                 [InlineKeyboardButton('Aɴɪᴍᴇs', url='https://t.me/+o2_AIqUz0adjY2M1'),
-                InlineKeyboardButton('Bᴀsᴇ', url='https://t.me/AniReal_Anime_Zone')
-                ],
-            [InlineKeyboardButton("ʜᴇʟᴘ", callback_data='help'),
-             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data='about')
-            ],
-            [InlineKeyboardButton("Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ", url='https://t.me/AniReal_Updates')
+                InlineKeyboardButton('Bᴀsᴇ', url='https://t.me/AniReal_Anime_Zone')],
+                [InlineKeyboardButton('• ᴀʙᴏᴜᴛ', callback_data='about'),
+                InlineKeyboardButton(' ʜᴇʟᴘ •', callback_data='help')],
+                [InlineKeyboardButton("Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ", url='https://t.me/AniReal_Updates')]
             ]
         ])
     )
