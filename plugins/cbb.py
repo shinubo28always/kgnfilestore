@@ -47,7 +47,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
                 [InlineKeyboardButton('• ᴀʙᴏᴜᴛ', callback_data='about'),
                 InlineKeyboardButton(' ʜᴇʟᴘ •', callback_data='help')],
                 [InlineKeyboardButton("Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ", url='https://t.me/AniReal_Updates')]
-            ]
+        
         ])
     )
 
