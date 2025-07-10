@@ -43,7 +43,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/F3M.jpg")
 #--------------------------------------------
 
 #--------------------------------------------
-HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @AniReal_Anime_Zone\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/AniReal_Support>Eʀᴇɴ Yᴇᴀɢᴇʀ</a></blockquote></b>"
+HELP_TXT = "<b><blockquote>🤖 ᴛʜɪs ɪs ᴀ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴡɪᴛʜ @AniReal_Anime_Zone\n\n📁 ʏᴏᴜ ᴄᴀɴ'ᴛ sᴇɴᴅ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅs ᴏʀ ғɪʟᴇs ʜᴇʀᴇ.\n\n✅ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ғɪʟᴇ: ᴊᴜsᴛ ᴄʟɪᴄᴋ ᴏɴ ᴀɴʏ ғɪʟᴇ ʟɪɴᴋ ʏᴏᴜ ɢᴏᴛ ғʀᴏᴍ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ — ᴛʜɪs ʙᴏᴛ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ sᴇɴᴅ ʏᴏᴜ ᴛʜᴇ ғɪʟᴇ 🎬\n\n🚫 ɴᴏ ᴏᴛʜᴇʀ ᴀᴄᴛɪᴏɴs ᴀʀᴇ ᴀʟʟᴏᴡᴇᴅ ʜᴇʀᴇ.\n\n🔧 ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ: <a href=\"https://t.me/AniReal_Support\">Eʀᴇɴ Yᴇᴀɢᴇʀ</a></blockquote></b>"
 ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/AniReal_Support>Eʀᴇɴ Yᴇᴀɢᴇʀ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/AniReal_Anime_Zone>𝐀𝐧𝐢𝐑𝐞𝐚𝐥 - Aɴɪᴍᴇ Zᴏɴᴇ</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+o2_AIqUz0adjY2M1>ᴀʟʟ ᴀɴɪᴍᴇs ɪɴ ʜɪɴᴅɪ ᴅᴜʙ</a>\n◈ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/AniReal_Chat_Group_Asia>𝐀𝐧𝐢𝐑𝐞𝐚𝐥 - Cʜᴀᴛ Gʀᴏᴜᴘ Asɪᴀ</a>\n◈ ʜᴇɴᴛᴀɪ : <a href=https://t.me/+RWsuyuCB-RIxMjE1>ʜᴇɴᴛᴀɪ ʜᴜʙ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/AniReal_Support>Eʀᴇɴ Yᴇᴀɢᴇʀ</a></blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
