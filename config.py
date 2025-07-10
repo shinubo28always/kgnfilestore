@@ -26,7 +26,7 @@ REDIRECT_BASE_URL = os.environ.get("REDIRECT_BASE_URL", "https://shinubo28always
 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002428761626")) #Your db channel Id
-OWNER = os.environ.get("OWNER", "ExE_AQUIB") # Owner username without @
+OWNER = os.environ.get("OWNER", "Yellow_Flassh") # Owner username without @
 OWNER_ID = int(os.environ.get("OWNER_ID", "7009167334")) # Owner id
 #--------------------------------------------
 PORT = os.environ.get("PORT", "8080")
@@ -35,7 +35,7 @@ DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://AniReal123:AniReal123@ani
 DB_NAME = os.environ.get("DATABASE_NAME", "AniReal123")
 #--------------------------------------------
 FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "0"))  # 0 means no expiry
-BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/KGN_SUPPORTZ")
+BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/AniReal_Chat_Group_Asia")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
 START_PIC = os.environ.get("START_PIC", "https://envs.sh/F3m.jpg")
@@ -75,7 +75,7 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 #--------------------------------------------
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "⚠️ ғᴜᴄᴋ ʏᴏᴜ, ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ᴍᴀsᴛᴇʀ. ɢᴏ ᴀᴡᴀʏ,ʙɪᴛᴄʜ 🙃!"
+USER_REPLY_TEXT = "⚠️ ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ᴍᴀsᴛᴇʀ. ɢᴏ ᴀᴡᴀʏ 🙃!"
 #--------------------------------------------
 
 
