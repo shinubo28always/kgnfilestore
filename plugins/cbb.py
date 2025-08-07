@@ -1,3 +1,12 @@
+#
+# Copyright (C) 2025 by Codeflix-Bots@Github, < https://github.com/Codeflix-Bots >.
+#
+# This file is part of < https://github.com/Codeflix-Bots/FileStore > project,
+# and is released under the MIT License.
+# Please see < https://github.com/Codeflix-Bots/FileStore/blob/master/LICENSE >
+#
+# All rights reserved.
+
 from pyrogram import Client 
 from bot import Bot
 from config import *
@@ -13,7 +22,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             text=HELP_TXT.format(first=query.from_user.first_name),
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start'),
+                [InlineKeyboardButton('ᴀᴅᴍɪɴ', url='https://t.me/AniReal_Support'),
                  InlineKeyboardButton("ᴄʟᴏꜱᴇ", callback_data='close')]
             ])
         )
@@ -23,7 +32,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             text=ABOUT_TXT.format(first=query.from_user.first_name),
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start'),
+                [InlineKeyboardButton('ᴀᴅᴍɪɴ', url='https://t.me/AniReal_Support'),
                  InlineKeyboardButton('ᴄʟᴏꜱᴇ', callback_data='close')]
             ])
         )
@@ -32,14 +41,10 @@ async def cb_handler(client: Bot, query: CallbackQuery):
         await query.message.edit_text(
             text=START_MSG.format(first=query.from_user.first_name),
             disable_web_page_preview=True,
-            reply_markup = InlineKeyboardMarkup(
-            [
-                    [InlineKeyboardButton('Aɴɪᴍᴇs', url='https://t.me/+o2_AIqUz0adjY2M1'),
-                InlineKeyboardButton('Bᴀsᴇ', url='https://t.me/AniReal_Anime_Zone')],
-                [InlineKeyboardButton('• ᴀʙᴏᴜᴛ', url='https://telegra.ph/AniReal---Support-Bot-08-07'),
-                InlineKeyboardButton(' ʜᴇʟᴘ •', url='https://telegra.ph/AniReal---Support-Bot-08-07-3')],
-                [InlineKeyboardButton("Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ", url='https://t.me/AniReal_Updates')]
-            ]
+            reply_markup=InlineKeyboardMarkup([
+                [InlineKeyboardButton("ʜᴇʟᴘ", callback_data='help'),
+                 InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data='about')]
+            ])
         )
 
     elif data == "close":
