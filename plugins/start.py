@@ -160,8 +160,8 @@ async def start_command(client: Client, message: Message):
             [
                     [InlineKeyboardButton('Aɴɪᴍᴇs', url='https://t.me/+o2_AIqUz0adjY2M1'),
                 InlineKeyboardButton('Bᴀsᴇ', url='https://t.me/AniReal_Anime_Zone')],
-                [InlineKeyboardButton('• ᴀʙᴏᴜᴛ', url=''),
-                InlineKeyboardButton(' ʜᴇʟᴘ •', url='help')],
+                [InlineKeyboardButton('• ᴀʙᴏᴜᴛ', url='https://telegra.ph/AniReal---Support-Bot-08-07'),
+                InlineKeyboardButton(' ʜᴇʟᴘ •', url='https://telegra.ph/AniReal---Support-Bot-08-07-3')],
                 [InlineKeyboardButton("Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ", url='https://t.me/AniReal_Updates')]
             ]
         )
