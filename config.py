@@ -22,8 +22,7 @@ TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 APP_ID = int(os.environ.get("APP_ID", "28568452")) #Your API ID from my.telegram.org
 API_HASH = os.environ.get("API_HASH", "8439af0a8ecc67bca4859180e7f9c8b9") #Your API Hash from my.telegram.org
 #--------------------------------------------
-REDIRECT_BASE_URL = os.environ.get("REDIRECT_BASE_URL", "https://shinubo28always.github.io/AniReal-Redirecting/")
-
+#redirect-line
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002428761626")) #Your db channel Id
 OWNER = os.environ.get("OWNER", "Yellow_Flassh") # Owner username without @
